@@ -4,11 +4,29 @@ project:
 
 book:
   title: "Data Science Group Project"
-  authors: "David Griffin, Anthony Li, Sabrina Sun, Duy Vo"
-  date: "2024-05-20"
+
+author:  
+  - name: "David Griffin"
+    affiliations:
+      - name: "david_griffin@berkeley.edu"
+  - name: "Anthony Li"
+    affiliations:
+      - name: "anthonyleeqy@berkeley.edu"  
+  - name: "Sabrina Sun"
+    affiliations:
+      - name: "yolosun4488@berkeley.edu"
+  - name: "Duy Vo"
+    affiliations:
+      - name: "duyvo@berkeley.edu"
+  date: "2026-01-25"
   chapters:
     - 10_motivation.ipynb
     - 20_data.ipynb
+
+abstract: |
+  This project examines a machine learning model using LendingClub data.
+  
+  [GitHub Repository](https://github.com/duygithub/berkeley_datasci_207_proj)
 
 bibliography: references.bib
 
