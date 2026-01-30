@@ -23,6 +23,7 @@ author:
     - 10_motivation.ipynb
     - 20_data.ipynb
     - 30_related_work.ipynb
+    - 40_methodology.ipynb
 
 abstract: |
   This project examines a machine learning model using LendingClub data.
