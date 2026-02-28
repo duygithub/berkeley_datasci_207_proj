@@ -1,43 +1,25 @@
 ---
-title: "datasci 207 Group Project Milestone"
-
-author:  
-  - name: "David Griffin (david_griffin@berkeley.edu)"
-  - name: "Anthony Li (anthonyleeqy@berkeley.edu)"
-  - name: "Sabrina Sun (yolosun4488@berkeley.edu)"
-  - name: "Duy Vo (duyvo@berkeley.edu)"
-
+title: datasci 207 Group Project Milestone
+author:
+  - name: David Griffin (david_griffin@berkeley.edu)
+  - name: Anthony Li (anthonyleeqy@berkeley.edu)
+  - name: Sabrina Sun (yolosun4488@berkeley.edu)
+  - name: Duy Vo (duyvo@berkeley.edu)
 abstract: |
   \begin{center}
   \url{https://github.com/duygithub/berkeley_datasci_207_proj}
   \end{center}
-
 format: pdf
 bibliography: references.bib
-# toc: true
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.17.1
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
 ---
-
-# Motivation
-{{< embed 10_motivation.ipynb >}}
-
-# Data Description
-{{< embed 20_data_description.ipynb >}}
-
-# Data Preprocessing
-{{< embed 30_data_preprocessing.ipynb >}}
-
-# EDA and Visualizations
-{{< embed 40_eda_visualizations.ipynb >}}
-
-# Data Challenges
-{{< embed 50_data_challenges.ipynb >}}
-
-# Methods and Experiments
-{{< embed 60_methods_and_experiments.ipynb >}}
-
-# Team Contributions
-{{< embed 70_team_contributions.ipynb >}}
-
-# References
-::: {#refs}
-:::
