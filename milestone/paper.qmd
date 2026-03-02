@@ -23,20 +23,14 @@ bibliography: references.bib
 # Data Description
 {{< embed 20_data_description.ipynb >}}
 
-# Data Preprocessing
-# {{< embed 30_data_preprocessing.ipynb >}}
-
-# EDA and Visualizations
-# {{< embed 40_eda_visualizations.ipynb >}}
-
 # Data Challenges
-# {{< embed 50_data_challenges.ipynb >}}
+{{< embed 50_data_challenges.ipynb >}}
 
 # Methods and Experiments
-# {{< embed 60_methods_and_experiments.ipynb >}}
+{{< embed 60_methods_and_experiments.ipynb >}}
 
 # Team Contributions
-# {{< embed 70_team_contributions.ipynb >}}
+{{< embed 70_team_contributions.ipynb >}}
 
 # References
 ::: {#refs}
