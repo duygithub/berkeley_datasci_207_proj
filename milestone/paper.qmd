@@ -15,6 +15,8 @@ abstract: |
 format: pdf
 toc: true
 fontsize: 10pt
+geometry:
+  - margin=1.2in
 bibliography: references.bib
 ---
 
