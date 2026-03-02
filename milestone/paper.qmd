@@ -13,9 +13,12 @@ abstract: |
   \end{center}
 
 format: pdf
+toc: true
+fontsize: 10pt
 bibliography: references.bib
-# toc: true
 ---
+
+{{< pagebreak >}}
 
 # Motivation
 {{< embed 10_motivation.ipynb >}}
@@ -34,6 +37,8 @@ bibliography: references.bib
 
 # Team Contributions
 {{< embed 70_team_contributions.ipynb >}}
+
+{{< pagebreak >}}
 
 # References
 ::: {#refs}
