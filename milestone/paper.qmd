@@ -29,6 +29,9 @@ bibliography: references.bib
 # Data Preprocessing
 {{< embed 30_data_preprocessing.ipynb >}}
 
+# EDA and Visualizations
+{{< embed 40_eda_visualizations.ipynb >}}
+
 # Data Challenges
 {{< embed 50_data_challenges.ipynb >}}
 
