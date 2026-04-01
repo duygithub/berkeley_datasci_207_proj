@@ -16,7 +16,7 @@ format: pdf
 toc: true
 fontsize: 10pt
 geometry:
-  - margin=1.2in
+  - margin=1in
 bibliography: references.bib
 ---
 
@@ -36,17 +36,11 @@ bibliography: references.bib
 ## Data Set Description
 {{< embed 30_data_description.ipynb >}}
 
-## Data Preprocessing
-{{< embed 31_data_preprocessing.ipynb >}}
-
-## Distribution Across Training
-{{< embed 32_distribution_across_training.ipynb >}}
-
-## Validation
-{{< embed 33_validation.ipynb >}}
+## Data Preprocessing, Distribution across Training, and Validation
+{{< embed 31_data_processing.ipynb >}}
 
 ## EDA and Visualizations
-{{< embed 34_eda_visualizations.ipynb >}}
+{{< embed 32_eda_visualizations.ipynb >}}
 
 # Methods
 
