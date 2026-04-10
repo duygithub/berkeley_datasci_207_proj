@@ -1,0 +1,69 @@
+---
+title: "datasci 207 Group Project Final Report"
+
+author:  
+  - name: "David Griffin (david_griffin@berkeley.edu)"
+  - name: "Anthony Li (anthonyleeqy@berkeley.edu)"
+  - name: "Sabrina Sun (yolosun4488@berkeley.edu)"
+  - name: "Duy Vo (duyvo@berkeley.edu)"
+
+abstract: |
+  \begin{center}
+  \url{https://github.com/duygithub/berkeley_datasci_207_proj}
+  \end{center}
+
+format: pdf
+toc: true
+fontsize: 10pt
+geometry:
+  - margin=1in
+bibliography: references.bib
+---
+
+{{< pagebreak >}}
+
+# Abstract
+{{< embed 10_abstract.ipynb >}}
+
+# Introduction
+{{< embed 11_introduction.ipynb >}}
+
+# Related Work
+{{< embed 20_related_work.ipynb >}}
+
+# Data
+
+## Data Set Description
+{{< embed 30_data_description.ipynb >}}
+
+## Data Preprocessing, Distribution across Training, and Validation
+{{< embed 31_data_processing.ipynb >}}
+
+## EDA and Visualizations
+{{< embed 32_eda_visualizations.ipynb >}}
+
+# Methods
+
+## Baseline
+{{< embed 40_baseline.ipynb >}}
+
+## Method 1 - XGBoost
+{{< embed 41_method_1.ipynb >}}
+
+## Method 2 - Neural Network
+{{< embed 42_method_2.ipynb >}}
+
+# Experiments & Results
+{{< embed 50_experiments_results.ipynb >}}
+
+# Conclusion
+{{< embed 60_conclusion.ipynb >}}
+
+# Team Contributions
+{{< embed 70_team_contributions.ipynb >}}
+
+{{< pagebreak >}}
+
+# References
+::: {#refs}
+:::
