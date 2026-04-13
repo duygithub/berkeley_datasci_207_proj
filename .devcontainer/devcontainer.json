@@ -1,5 +1,5 @@
 {
-    "name": "ML Quarto Environment",
+    "name": "Berkeley DataSci 207 Project",
     "build": {
         "dockerfile": "Dockerfile"
     },
@@ -13,5 +13,5 @@
         }
     },
     "remoteUser": "vscode",
-    "postCreateCommand": "pip install -r requirements.txt"
+    "postCreateCommand": "python3 -m pip install --user -r $(find /workspaces -name requirements.txt | head -n 1)"
 }

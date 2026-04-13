@@ -1,4 +1,5 @@
 ---
+# Run using quarto render paper.qmd --to pdf
 title: "datasci 207 Group Project Final Report"
 
 author:  
@@ -16,7 +17,7 @@ format: pdf
 toc: true
 fontsize: 10pt
 geometry:
-  - margin=1in
+  - margin=.75in
 bibliography: references.bib
 ---
 
