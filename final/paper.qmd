@@ -6,7 +6,7 @@ author:
   - name: "Anthony Li (anthonyleeqy@berkeley.edu)"
   - name: "Sabrina Sun (yolosun4488@berkeley.edu)"
   - name: "David Griffin (david_griffin@berkeley.edu)"
-  - name: "Duy Vo (duyvo@berkeley.edu)"
+  - name: "Duy Bao Vo (duyvo@berkeley.edu)"
 
 abstract: |
   \begin{center}
