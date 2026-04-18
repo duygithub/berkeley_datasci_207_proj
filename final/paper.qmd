@@ -3,9 +3,9 @@
 title: "datasci 207 Group Project Final Report"
 
 author:  
-  - name: "David Griffin (david_griffin@berkeley.edu)"
   - name: "Anthony Li (anthonyleeqy@berkeley.edu)"
   - name: "Sabrina Sun (yolosun4488@berkeley.edu)"
+  - name: "David Griffin (david_griffin@berkeley.edu)"
   - name: "Duy Vo (duyvo@berkeley.edu)"
 
 abstract: |
